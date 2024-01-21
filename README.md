@@ -21,7 +21,7 @@ Os alunos deverão desempenhar as seguintes atividades:
     2. A imagem abaixo ilustra um exemplo de implementação desta aplicação, com um tipo de estilização. O estilo da página não necessariamente precisa ter o mesmo layout apresentado, mas é importante ter os mesmos componentes. O projeto base (HTML e CSS) será disponibilizado no fórum de avisos do professor, caso queiram utilizá-lo como referência.
 
 
-    <img src="/readme/image.png">
+    <img src="readme/image.png">
 
 
     3. No exemplo acima, foi utilizada somente a rota http://makeup-api.herokuapp.com/api/v1/products.json para carregar todas as informações necessárias para a aplicação, entretanto, existem rotas específicas disponíves para carregar cada tipo de informação.
@@ -31,13 +31,13 @@ Os alunos deverão desempenhar as seguintes atividades:
     5. Na apresentação para cada um dos produtos deve ser apresentada sua imagem, o nome do produto abaixo da imagem, a marca e o preço, conforme exemplo abaixo:
     
 
-    <img src="/readme/image2.png">
+    <img src="readme/image2.png">
 
 
     Segue um trecho de código HTML com o exemplo para o item apresentado.
     
 
-    <img src="/readme/image3.png">
+    <img src="readme/image3.png">
     
     
     6. Para o preço do produto deverá ser aplicado um fator de conversão de R$5,50 
@@ -49,13 +49,13 @@ Os alunos deverão desempenhar as seguintes atividades:
     conforme imagem abaixo:
     
 
-    <img src="/readme/image4.png">
+    <img src="readme/image4.png">
 
 
     Segue um trecho de código HTML com o exemplo para o item apresentado.
 
 
-    <img src="/readme/image5.png">
+    <img src="readme/image5.png">
 
 
     8. A página inicial deverá carregar todos os produtos considerando a ordenação 
