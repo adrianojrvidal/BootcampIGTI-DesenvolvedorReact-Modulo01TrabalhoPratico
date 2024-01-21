@@ -4,9 +4,9 @@
 Objetivos de Ensino
 
 Exercitar os seguintes conceitos vistos em sala de aula:
-✔ Implementação de aplicação com JavaScript puro.
-✔ Manipulação de Eventos.
-✔ Requisições assíncronas.
+- Implementação de aplicação com JavaScript puro.
+- Manipulação de Eventos.
+- Requisições assíncronas.
 
 Enunciado
 Construção de uma aplicação de catálogo de produtos de maquiagem a ser 
