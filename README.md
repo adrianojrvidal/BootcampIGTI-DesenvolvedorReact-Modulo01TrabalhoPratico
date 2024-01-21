@@ -63,7 +63,7 @@ por Melhor Avaliados, não sendo necessário realizar nenhuma paginação e
 nenhum filtro.
 
 Dicas e sugestões:
-> Utilize o projeto-base fornecido pelo professor como referência.
-> Utilizem o fetch para consumo da API e os conceitos apresentados nas videosaulas para implementação do trabalho.
-> Algumas informações dos produtos estão como null, portanto para estes casos será necessário desconsiderar a exibição da informação nos detalhes dos produtos bem como nos critérios para ordenações e filtros. Exemplo: Para informação numérica(rating, price, ...) considerar o valor 0 como default e para informações textuais (brand, product_type,..) considerar o valor “” como default.
-> Alguns produtos não terão sua imagem carregada, utilizem a imagem default disponibilizada no projeto base para caso de erro no carregamento da imagem. Caso tenham dificuldades com a API, poderá ser utilizado como alternativa o json-server com o .json dos dados disponibilizado no projeto base.
+- Utilize o projeto-base fornecido pelo professor como referência.
+- Utilizem o fetch para consumo da API e os conceitos apresentados nas videosaulas para implementação do trabalho.
+- Algumas informações dos produtos estão como null, portanto para estes casos será necessário desconsiderar a exibição da informação nos detalhes dos produtos bem como nos critérios para ordenações e filtros. Exemplo: Para informação numérica(rating, price, ...) considerar o valor 0 como default e para informações textuais (brand, product_type,..) considerar o valor “” como default.
+- Alguns produtos não terão sua imagem carregada, utilizem a imagem default disponibilizada no projeto base para caso de erro no carregamento da imagem. Caso tenham dificuldades com a API, poderá ser utilizado como alternativa o json-server com o .json dos dados disponibilizado no projeto base.
